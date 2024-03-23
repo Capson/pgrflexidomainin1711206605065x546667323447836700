@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://chat-22387.bubbleapps.io/$1"
+    }
+  ]
+}
